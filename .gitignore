@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+
+# MySQL Connector JAR
+*.jar
+
+# VS Code / IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build folders
+build/
+out/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
