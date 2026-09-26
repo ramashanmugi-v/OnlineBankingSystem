@@ -371,9 +371,8 @@ Transaction history
 MySQL database tables
 GitHub repository
 
-Example:
-
-## 📸 Screenshots
+Google Drive Link:
+https://drive.google.com/drive/folders/1JfrKe6bqOeOqMm3o_399uHOP2Rt_hz_c?usp=drive_link
 
 Screenshots will be added here.
 🔮 Future Enhancements
